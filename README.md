@@ -1,1 +1,1 @@
-Engin Demiroğ Yazılım Geliştirici Yetiştirme Kampı (C# + ANGULAR) projesi 
+Engin Demiroğ Yazılım Geliştirici Yetiştirme Kampı (C#) projesi 
